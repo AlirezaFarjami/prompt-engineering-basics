@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -192,3 +193,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+=======
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.env
+*.egg-info/
+>>>>>>> ef8dc9d (Initial commit: add existing Python project)

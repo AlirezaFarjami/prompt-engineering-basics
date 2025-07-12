@@ -9,6 +9,9 @@
 ### Browser Use Tutorial
 - [YouTube Tutorial](https://www.youtube.com/watch?v=zGkVKix_CRU)
 
+### ElevenLabs
+- [ElevenLabs Document](https://elevenlabs.io/docs/conversational-ai/overview)
+
 ### Practical Guides
 - [A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 - [A Developer’s Guide to Building Scalable AI: Workflows vs Agents](https://towardsdatascience.com/a-developers-guide-to-building-scalable-ai-workflows-vs-agents/)
